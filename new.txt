@@ -1,0 +1,2 @@
+This is my new.txt filse 
+which is going to be staged and commited.
